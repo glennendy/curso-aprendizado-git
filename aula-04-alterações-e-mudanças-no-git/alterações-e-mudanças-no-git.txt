@@ -1,0 +1,18 @@
+Aula - 04
+
+-Para mostrar o código de cada commit e o nome 
+
+git log --pretty=oneline
+
+-Para editar o commit mais recente 
+
+git commit --amend -m "frase (edição)"
+
+-Para renomear arquivo 
+
+git reset HEAD + nome do arquivo
+
+-Remover mudanças depois do commit e retornar para 
+a forma orginal 
+
+git checkout -- nome do arquivo 
