@@ -1,0 +1,18 @@
+Aula - 06
+
+-Para iniciar um repositório que vai ser disponibilizado para outra
+maquinas na sua rede local
+
+git init --bare
+
+-Para criar clone 
+
+git clone file:////servidor+pasta 
+
+-Para saber o nome do servidor remoto 
+
+git remote 
+
+-Para enviar arquivo 
+
+git push
