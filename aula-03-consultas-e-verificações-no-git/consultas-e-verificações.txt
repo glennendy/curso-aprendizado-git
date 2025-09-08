@@ -1,0 +1,27 @@
+Aula - 03 
+
+-Para consultar todos as alterações que foi feita em um arquivo 
+mas que ainda não foi adicionado 
+
+git diff
+
+-Para verificar os arquivos que estão na staged area usa
+
+git diff -- staged 
+
+-Histórico de todos os commit 
+
+git log 
+
+- Para mostrar o dif
+
+git log -p
+
+-Para limitar a quantidade de commit
+
+git log -p -1 (O 1 no final é a quantidade de linhas que serão mostradas, nesse caso, 
+pode colocar a quantidade de linhas que desejar)
+
+-Para visualizar todos as mudanças detalhhadas de forma simples 
+
+git k
