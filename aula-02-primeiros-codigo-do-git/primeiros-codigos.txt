@@ -1,0 +1,35 @@
+Aula - 02
+
+*Criação da pasta local
+
+-Comando para acessar a pasta no git bash
+
+cd + nome da pasta 
+
+-Se quiser sair/voltar
+
+cd..
+
+-Sequiser limpar os comandos
+
+clear 
+
+-Para criar repositório 
+
+git init
+
+-Para ver o status 
+
+git status
+
+-Para adicionar 
+
+git add + nome do arquivo
+git add* txt - adiciona tudo que for txt, isso serve para outras formatações
+git add. - adiciona tudo
+
+-Para salvar no repositório
+
+git commit -m "frase de identificação"
+
+-Se quiser que o git ignore algo, é só criar um arquivo com o nome "git ignore".
