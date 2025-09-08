@@ -1,0 +1,39 @@
+Aula - 05
+
+-Tag é uma etiqueta, é um ponto de atalho para um determinado status do sitema 
+
+-Para listar as tag
+
+git tag
+
+-Para criar uma tag
+
+git tag -a v1.0 "mensagem"
+
+-a : quer dizer qye é uma tag anotada que vai armazenar essas informações 
+
+-Se quiser saber mais coisas sobre uma tag
+
+git show + nome da tag
+
+-Se quiser visualizar os arquivos que tinha no commit inicial 
+
+git checkout + versão da tag
+
+Nesse código, ele faz checkout, faz a troca dos arquivos para a tag
+
+-Para deletar uma tag
+
+git tag -d + versão da tag
+
+-Para criar um branch 
+
+git branch + nome que quer 
+
+-Para fazer a transição dos arquivos para o branch 
+
+git checkout + o nome 
+
+-Para evitar os dois comandos 
+
+git checkout -b + nome
