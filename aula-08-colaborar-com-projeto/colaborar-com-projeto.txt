@@ -1,0 +1,6 @@
+Aula - 08 
+
+Fork - procedimento que faz para clonar aquele repositório que quer colaborar 
+
+Pull request - Envia tudo que foi feito de alterações para que o autor do 
+projeto avalie e decida se vai colocar isso junto do projeto original 
